@@ -211,10 +211,10 @@ Material:
     - _BlendModePreserveSpecular: 1
     - _BlendSrc: 1
     - _BlendSrcAlpha: 1
-    - _Brightness: 1.75
+    - _Brightness: 1.37
     - _BumpScale: 1
-    - _CellShading: 0.31
-    - _CellShadingAlpha: 0
+    - _CellShading: 0.6
+    - _CellShadingAlpha: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _ColorGrading: 0
@@ -246,7 +246,7 @@ Material:
     - _GoochRampIntensity: 0
     - _HatchingMapScale: 1
     - _Hue: 0
-    - _HueShift: 206
+    - _HueShift: 203
     - _IndirectFade: 1
     - _Initialized: 0
     - _InputTab: 1
@@ -279,7 +279,7 @@ Material:
     - _RimSize: 2
     - _RimSmoothness: 0.5
     - _RimThresholdOffset: 0.25
-    - _Saturation: 0.71
+    - _Saturation: 0.92
     - _Shadow_Texture: 1
     - _SketchMapScale: 1
     - _Smoothness: 0.15

@@ -213,8 +213,8 @@ Material:
     - _BlendSrcAlpha: 1
     - _Brightness: 1.37
     - _BumpScale: 1
-    - _CellShading: 0.67
-    - _CellShadingAlpha: 0.069
+    - _CellShading: 1.08
+    - _CellShadingAlpha: 0
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _ColorGrading: 0
@@ -246,7 +246,7 @@ Material:
     - _GoochRampIntensity: 0
     - _HatchingMapScale: 1
     - _Hue: 0
-    - _HueShift: 135
+    - _HueShift: 98
     - _IndirectFade: 1
     - _Initialized: 0
     - _InputTab: 1
