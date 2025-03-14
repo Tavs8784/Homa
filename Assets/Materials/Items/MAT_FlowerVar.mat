@@ -211,10 +211,10 @@ Material:
     - _BlendModePreserveSpecular: 1
     - _BlendSrc: 1
     - _BlendSrcAlpha: 1
-    - _Brightness: 1.53
+    - _Brightness: 1.37
     - _BumpScale: 1
-    - _CellShading: 0.31
-    - _CellShadingAlpha: 0.015
+    - _CellShading: 0.67
+    - _CellShadingAlpha: 0.069
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _ColorGrading: 0
@@ -246,7 +246,7 @@ Material:
     - _GoochRampIntensity: 0
     - _HatchingMapScale: 1
     - _Hue: 0
-    - _HueShift: 195
+    - _HueShift: 135
     - _IndirectFade: 1
     - _Initialized: 0
     - _InputTab: 1
@@ -272,14 +272,14 @@ Material:
     - _RenderFace: 2
     - _RenderPriority: 0
     - _Rim: 1
-    - _RimLightAlpha: 0.49
+    - _RimLightAlpha: 0.522
     - _RimLightColor: 5.57
-    - _RimLightDistance: 1.72
-    - _RimLightPower: 0.16
+    - _RimLightDistance: 2.13
+    - _RimLightPower: 0.316
     - _RimSize: 2
     - _RimSmoothness: 0.5
     - _RimThresholdOffset: 0.25
-    - _Saturation: 0.64
+    - _Saturation: 0.76
     - _Shadow_Texture: 1
     - _SketchMapScale: 1
     - _Smoothness: 0.15
@@ -330,7 +330,7 @@ Material:
     - _RimBrightColor: {r: 1, g: 1, b: 1, a: 1}
     - _RimColor: {r: 0.26415092, g: 0.10093162, b: 0.048593808, a: 1}
     - _RimDarkColor: {r: 0, g: 0, b: 0, a: 1}
-    - _RimLightColor1: {r: 0.16351542, g: 1, b: 0.08962262, a: 0}
+    - _RimLightColor1: {r: 0.3125934, g: 0.09019607, b: 1, a: 0}
     - _Second_color: {r: 0, g: 0, b: 0, a: 1}
     - _Shadow_color: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

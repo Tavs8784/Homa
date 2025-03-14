@@ -253,7 +253,7 @@ Material:
     - _GoochRampIntensity: 0
     - _HatchingMapScale: 1
     - _Height: 1
-    - _Height1: 4.77
+    - _Height1: 4.73
     - _Hue: 0
     - _IndirectFade: 1
     - _Initialized: 0
@@ -267,6 +267,7 @@ Material:
     - _LightBandsScale: 0.5
     - _LightThreshold: 0.5
     - _Lighting_Cutoff: -0.75
+    - _MainHeight: 0.93
     - _Metallic: 0
     - _Normal: 0
     - _NormalMapIntensity: 1
@@ -278,7 +279,7 @@ Material:
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Refl: 0.332
-    - _Refl1_2: 0.198
+    - _Refl1_2: 0.306
     - _RenderFace: 2
     - _RenderPriority: 0
     - _Rim: 1
@@ -286,7 +287,7 @@ Material:
     - _RimSmoothness: 0.5
     - _RimThresholdOffset: 0.25
     - _Saturation: 1
-    - _ScaleAdditionalRefl: 4
+    - _ScaleAdditionalRefl: 17
     - _ScaleRefl: 115
     - _Shadow_Texture: 1
     - _SketchMapScale: 1
